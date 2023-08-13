@@ -8,8 +8,7 @@
 
 
 
-
-https://github.com/sjpradhan/sjpradhan/tree/6ebd7549b866277ffad1c8bbe1392aabc59a65ed/Images
+https://github.com/sjpradhan/sjpradhan/blob/6ebd7549b866277ffad1c8bbe1392aabc59a65ed/Images/hand.gif
 
 
 
