@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/sjpradhan/sjpradhan/main/Images/Hi.gif" width="40px" />, I'm Satyajeet</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/sjpradhan/sjpradhan/main/Images/Hi.gif" width="40px" />,👋, I'm Satyajeet</h1>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
