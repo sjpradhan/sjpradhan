@@ -15,8 +15,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-<p align="centre"><img src="https://github-readme-stats-five-lyart.vercel.app/api?username=sjpradhan&show_icons=true" alt="sjpradhan" /> </p>![image]
+<p align="centre"><img src="https://github-readme-stats-five-lyart.vercel.app/api?username=sjpradhan&show_icons=true" alt="sjpradhan" /> </p>
 
 
 
