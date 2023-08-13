@@ -2,7 +2,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/sjpradhan"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+taught+Data+Analyst;Curious+to+lear+new+things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/sjpradhan"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+taught+Data+Analyst;Curious+to+learn+new+things&center=true&width=380&height=45"></a>
 
 
 
