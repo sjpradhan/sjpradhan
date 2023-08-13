@@ -6,6 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjpradhan&label=Profile%20views&color=0e75b6&style=flat" alt="sjpradhan" /> </p>
 
+<h3 align="left">Socials:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sjpradhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sjpradhan" height="30" width="40" /></a>
+</p>
+
 
   - 🔭 Diversified work experience on multiple projects df 
 - 🌱 I’m currently learning ...
