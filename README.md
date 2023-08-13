@@ -5,11 +5,12 @@
   <a href="https://github.com/sjpradhan"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+taught+Data+Analyst;Curious+to+lear+new+things&center=true&width=380&height=45"></a>
 
 
+<p align="centre"><img src="https://github-readme-stats-five-lyart.vercel.app/api?username=sjpradhan&show_icons=true" alt="sjpradhan" /> </p>![image]
 
 
 
 
-https://github.com/sjpradhan/sjpradhan/blob/main/Images/hand.gif
+
 
 
 
