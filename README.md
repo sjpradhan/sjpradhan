@@ -1,13 +1,15 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/sjpradhan/sjpradhan/main/images/hand.gif" width="40px" />, I'm Satyajeet</h1>
+<h1 align="center">Hi <img src="https://github.com/sjpradhan/sjpradhan/blob/main/Images/hand.gif" width="40px" />, I'm Satyajit</h1>
+
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/sjpradhan"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+taught+Data+Analyst;Always+learning+new+things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/pik1989"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+taught+Data+Scientist;Trainer%2C+Blogger+%26+Speaker;10%2B+years+of+coding+experience;Always+learning+new+things&center=true&width=380&height=45"></a>
 
 
 
 
 
-Images/hand.gif
+
+https://github.com/sjpradhan/sjpradhan/blob/main/Images/hand.gif
 
 
 
