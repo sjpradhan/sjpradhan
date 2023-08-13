@@ -3,7 +3,6 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/sjpradhan"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+taught+Data+Analyst;Curious+to+learn+new+things&center=true&width=380&height=45"></a>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjpradhan&label=Profile%20views&color=0e75b6&style=flat" alt="sjpradhan" /> </p>
 
 - 🔭 Diversified work experience on multiple projects
