@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjpradhan&label=Profile%20views&color=0e75b6&style=flat" alt="sjpradhan" /> </p>
 
 - 🔭 Diversified work experience on multiple projects
-- 👨‍💻 [My all projects](https://github.com/sjpradhan/PortfolioProjects.git)
   
 - 🦾 Experience working on manufacturing domain
 
